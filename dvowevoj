@@ -1,0 +1,35 @@
+[33mcommit 9637eb9ed43e6d1018d3c6cadf6eb42bd747e601[m[33m ([m[1;36mHEAD -> [m[1;32mtitulo[m[33m)[m
+Author: Eduardo <du.massami@outlook.com>
+Date:   Thu Apr 2 20:34:44 2020 -0300
+
+    Alterando título da página
+
+[33mcommit 8f4c57505128ec92ac889c6dcc8a749a9b43eec6[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Eduardo <du.massami@outlook.com>
+Date:   Thu Apr 2 19:52:19 2020 -0300
+
+    Teste GitHub
+
+[33mcommit d2e181ffcaa2f8b7d7453c7cdc148769ba80c098[m[33m ([m[1;31mlocal/master[m[33m)[m
+Author: Edu2 <du.massami@gmail.com>
+Date:   Thu Apr 2 19:43:48 2020 -0300
+
+    Renomeando o curso de Integração Contínua
+
+[33mcommit 9d1b9a5eabd6c09da223d3fb7e90d8b20348809f[m
+Author: Eduardo <du.massami@outlook.com>
+Date:   Thu Apr 2 18:36:10 2020 -0300
+
+    Adicionando .gitignore
+
+[33mcommit b6d4c9cb6501102ccfc4a1c703ab82522a6a3efe[m
+Author: Eduardo <du.massami@outlook.com>
+Date:   Thu Apr 2 18:30:51 2020 -0300
+
+    Acento adicionado no curso de Integração Contínua
+
+[33mcommit c03943354229017542b7071709d96b9d83c3c08e[m
+Author: Eduardo <du.massami@outlook.com>
+Date:   Thu Apr 2 18:29:26 2020 -0300
+
+    Criando arquivo index.html com lista de cursos
